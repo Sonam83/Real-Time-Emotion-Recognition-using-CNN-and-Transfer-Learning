@@ -5,23 +5,37 @@
 **Procedure** :
 
 -Environment check using Anaconda prompt in Jupyter and Google colab
+
 -Importing all the required Libraries
+
 -Creating a dataset along with sub-folders classification as ["Angry","Sad","Sleep","Smile","Surprise"] using Webcam/Iriun Webcam/Video path in jupyter with the help of tensor flow
+
 -Preprocessing involves Data Augmentation techniques like resizing, rescaling, normalisation adhered by splitting the data into training dataset and testing dataset using pytorch datasets
+
 -Creating batches using pytorch dataloaders
+
 -Building model with transfer learning
+
 -Train the model
+
 -saving the best model
+
 -Evaluating the model with metrics confusion matrix, precision, Recall, F1 score, Accuracy
+
 -Plotting the metrics plot on classification reports
+
 -Live stream capturing video with opencv haarcascade to predict the class : Inference using pytorch
 
 **Tech-stack used** :
 
 Python 3.11.13
+
 Tensorflow 2.19.0
+
 Opencv
+
 Pytorch
+
 Numpy,Matplotlib,Keras
 
 **Summary** :
